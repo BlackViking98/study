@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matve\\source\\repos\\RMPOKS PZ7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E5DD2F-1EB4-4847-9DD8-E4F60107B690}|RMPOKS PZ7\\RMPOKS PZ7.csproj|c:\\users\\matve\\source\\repos\\rmpoks pz7\\rmpoks pz7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E5DD2F-1EB4-4847-9DD8-E4F60107B690}|RMPOKS PZ7\\RMPOKS PZ7.csproj|solutionrelative:rmpoks pz7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\source\\repos\\RMPOKS PZ7\\RMPOKS PZ7\\Program.cs",
+              "RelativeDocumentMoniker": "RMPOKS PZ7\\Program.cs",
+              "ToolTip": "C:\\Users\\matve\\source\\repos\\RMPOKS PZ7\\RMPOKS PZ7\\Program.cs",
+              "RelativeToolTip": "RMPOKS PZ7\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:47:05.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

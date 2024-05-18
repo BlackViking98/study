@@ -1,0 +1,7 @@
+C:\Users\matve\source\repos\RMPOKS PZ7\RMPOKS PZ7\obj\Debug\RMPOKS PZ7.csproj.AssemblyReference.cache
+C:\Users\matve\source\repos\RMPOKS PZ7\RMPOKS PZ7\obj\Debug\RMPOKS PZ7.csproj.CoreCompileInputs.cache
+C:\Users\matve\source\repos\RMPOKS PZ7\RMPOKS PZ7\bin\Debug\RMPOKS PZ7.exe.config
+C:\Users\matve\source\repos\RMPOKS PZ7\RMPOKS PZ7\bin\Debug\RMPOKS PZ7.exe
+C:\Users\matve\source\repos\RMPOKS PZ7\RMPOKS PZ7\bin\Debug\RMPOKS PZ7.pdb
+C:\Users\matve\source\repos\RMPOKS PZ7\RMPOKS PZ7\obj\Debug\RMPOKS PZ7.exe
+C:\Users\matve\source\repos\RMPOKS PZ7\RMPOKS PZ7\obj\Debug\RMPOKS PZ7.pdb
