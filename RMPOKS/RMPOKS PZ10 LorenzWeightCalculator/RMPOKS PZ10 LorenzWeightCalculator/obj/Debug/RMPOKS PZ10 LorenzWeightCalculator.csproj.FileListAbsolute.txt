@@ -1,0 +1,10 @@
+C:\Users\matve\source\repos\RMPOKS PZ10 LorenzWeightCalculator\RMPOKS PZ10 LorenzWeightCalculator\bin\Debug\RMPOKS PZ10 LorenzWeightCalculator.exe.config
+C:\Users\matve\source\repos\RMPOKS PZ10 LorenzWeightCalculator\RMPOKS PZ10 LorenzWeightCalculator\bin\Debug\RMPOKS PZ10 LorenzWeightCalculator.exe
+C:\Users\matve\source\repos\RMPOKS PZ10 LorenzWeightCalculator\RMPOKS PZ10 LorenzWeightCalculator\bin\Debug\RMPOKS PZ10 LorenzWeightCalculator.pdb
+C:\Users\matve\source\repos\RMPOKS PZ10 LorenzWeightCalculator\RMPOKS PZ10 LorenzWeightCalculator\obj\Debug\RMPOKS PZ10 LorenzWeightCalculator.csproj.AssemblyReference.cache
+C:\Users\matve\source\repos\RMPOKS PZ10 LorenzWeightCalculator\RMPOKS PZ10 LorenzWeightCalculator\obj\Debug\RMPOKS_PZ10_LorenzWeightCalculator.Form1.resources
+C:\Users\matve\source\repos\RMPOKS PZ10 LorenzWeightCalculator\RMPOKS PZ10 LorenzWeightCalculator\obj\Debug\RMPOKS_PZ10_LorenzWeightCalculator.Properties.Resources.resources
+C:\Users\matve\source\repos\RMPOKS PZ10 LorenzWeightCalculator\RMPOKS PZ10 LorenzWeightCalculator\obj\Debug\RMPOKS PZ10 LorenzWeightCalculator.csproj.GenerateResource.cache
+C:\Users\matve\source\repos\RMPOKS PZ10 LorenzWeightCalculator\RMPOKS PZ10 LorenzWeightCalculator\obj\Debug\RMPOKS PZ10 LorenzWeightCalculator.csproj.CoreCompileInputs.cache
+C:\Users\matve\source\repos\RMPOKS PZ10 LorenzWeightCalculator\RMPOKS PZ10 LorenzWeightCalculator\obj\Debug\RMPOKS PZ10 LorenzWeightCalculator.exe
+C:\Users\matve\source\repos\RMPOKS PZ10 LorenzWeightCalculator\RMPOKS PZ10 LorenzWeightCalculator\obj\Debug\RMPOKS PZ10 LorenzWeightCalculator.pdb
